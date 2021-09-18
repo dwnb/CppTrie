@@ -1,0 +1,3 @@
+/home/dengwei/Desktop/CppTrie/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dengwei/Desktop/CppTrie/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dengwei/Desktop/CppTrie/cmake-build-debug/CMakeFiles/CppTrie.dir

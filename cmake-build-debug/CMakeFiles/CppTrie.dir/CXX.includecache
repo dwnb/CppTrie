@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dengwei/Desktop/CppTrie/Trie.h
+unordered_map
+-
+stack
+-
+
+/home/dengwei/Desktop/CppTrie/main.cpp
+iostream
+-
+Trie.h
+/home/dengwei/Desktop/CppTrie/Trie.h
+
